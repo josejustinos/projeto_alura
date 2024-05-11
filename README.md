@@ -1,5 +1,5 @@
 # projeto_alura
-Projeto da Alura - Encontra Concurso
+Projeto da Alura - Encontra Concurso.
 O projeto consiste em fazer a leitura de um EDITAL (arquivo tipo pdf) e encontrar determinado conteúdo.
 Pode ser ser usado para encontrar concurso público, vagas, licitação, etc. Claro que com algumas adaptações.
 Aqui usaremos para procurar vagas de concursos públicos.
